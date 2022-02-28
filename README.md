@@ -1,2 +1,2 @@
 # Griffin
-Web designing
+Website designing
